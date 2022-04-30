@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    
+}
+th,td {
+    
+    padding: 10px;
+    background: rgb(6, 6, 94);
+    color: white;
+}
+#data {
+    margin-bottom: 10px;
+}
+#data input {
+    
+    margin: 5px 0;
+    width: 160px;
+    height: 20px;
+    text-align: center;
+    
+}
+
+button {
+    width: 168px;
+}
+
+th {
+
+    background: orange;
+    color: black;
+    
+}
+
+
+
+table {
+    
+    width: 520px;
+    margin: 10px 0;
+}
+
+
+tr, td {
+    border: 2px solid orange;
+    width: 60px;
+    height: 40px;
+
+}
+
+
+
+
